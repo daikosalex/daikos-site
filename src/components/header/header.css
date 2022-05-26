@@ -1,0 +1,41 @@
+
+.my-page-area{
+    flex-direction: column;
+    display: flex;
+    background-color: black;
+    
+}
+
+.my-page-header{
+    flex-direction: column;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    background-color:rgb(0, 0, 0);
+    
+    padding: 10px;
+}
+
+.header-title{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    background-color:rgb(0, 0, 0);
+    
+    
+}
+
+.header-buttons{
+    justify-content: space-between;
+    flex-direction: row;
+    display: flex;
+    color: aquamarine;
+    width: 100%;
+}
+
+.my-page-body{
+   
+    margin-top: 30px;
+}
